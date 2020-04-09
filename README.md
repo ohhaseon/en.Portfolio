@@ -1,4 +1,4 @@
-# PORTFOLIO
+# Portfolio
 
 ### 1.SNSのApplication開発  
 #### アドレス:https://github.com/ohhaseon/sns_application 
