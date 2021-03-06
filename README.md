@@ -10,7 +10,7 @@
 + そのプロジェクトは校内プロジェクト大会で優秀賞を受賞しました。  
 　　
 ### 2.　みんなが安全なトイレ作りプロジェクト　　
-#### アドレス:https://github.com/ohhaseon/Making-safe-restroom-app　　
+#### アドレス:https://github.com/ohhaseon/Making-safe-restroom-app
 + 開発人数:2名　　
 + 開発期間:2019.09-2019.11　　
 + 開発言語/ツール：ReactJS、Firebase　　
